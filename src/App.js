@@ -11,11 +11,8 @@ import Intro from "./components/Intro";
 import Footer from "./components/Footer";
 import ApplicationForm from "./components/ApplicationForm";
 import InterviewEntry from "./components/InterviewsEntry";
-<<<<<<< HEAD
-=======
 import Companies from "./components/Companies";
 import PublicInterviews from "./components/PublicInterviews";
->>>>>>> b182c5aa81744b24dd496412998d0f4780228203
 import "./App.css";
 
 function App() {
@@ -44,7 +41,11 @@ function App() {
           />
           <ProtectedRoute path="/applications" component={UserApps} />
           <ProtectedRoute exact path="/companies" component={Companies} />
-          <ProtectedRoute exact path="/companies/:id?" component={PublicInterviews} />
+          <ProtectedRoute
+            exact
+            path="/companies/:id?"
+            component={PublicInterviews}
+          />
         </Switch>
       </Router>
     </LoginProvider>
