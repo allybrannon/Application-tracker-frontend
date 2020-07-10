@@ -27,7 +27,7 @@ If you click on the "See Companies Others Have Applied To" link from your home p
 To add Interview Data, you can submit your interview history after you have logged the application.  The interview asks several questions to help you and others see the types of interviews the company gave.<br/>
 <img width="600" alt="AppTrack 2020-05-04 18-40-17" src="https://user-images.githubusercontent.com/58038239/81020879-d79da600-8e37-11ea-9fee-eed22cc8b242.png">
 <br/>
-### The builders:<br/>
+## The builders:<br/>
 [Jennifer Morales](https://github.com/jmorales22)<br/>
 [Fred Major](https://github.com/sgtfredmajor)<br/>
 [Frank Sundstedt](https://github.com/fsundstedt)<br/>
