@@ -29,7 +29,6 @@ To add Interview Data, you can submit your interview history after you have logg
 <br/>
 
 ## The builders:
-<br/>
 [Jennifer Morales](https://github.com/jmorales22)<br/>
 [Fred Major](https://github.com/sgtfredmajor)<br/>
 [Frank Sundstedt](https://github.com/fsundstedt)<br/>
